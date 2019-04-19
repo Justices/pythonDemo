@@ -1,0 +1,6 @@
+[Sun, 19 Nov 2017 11:30:11][logger.py][line:10][DEBUG] 19
+[Sun, 19 Nov 2017 11:30:37][logger.py][line:9][DEBUG] 19
+[Sun, 19 Nov 2017 11:30:48][logger.py][line:9][DEBUG] 19
+[Sun, 19 Nov 2017 11:49:13][logger.py][line:9][DEBUG] 19
+[Sun, 19 Nov 2017 11:49:29][logger.py][line:9][DEBUG] 19
+[Sun, 19 Nov 2017 11:49:29][Pattern.py][line:15][INFO] recorder the loggging

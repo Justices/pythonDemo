@@ -1,0 +1,25 @@
+数据分析时用到的库有
+1.numpy（Numerical python）是python科学计算的基础包，它提供了以下功能：
+    * 快速告诉的多维数组
+    * 用于对数组执行元素级计算以及直接执行对数组计算的执行函数
+    * 用于读写硬盘上基于数组的数据集工具
+    * 线性代数运算
+
+2. pandas 提供了使我们能够快速便捷的处理结构化数据的大量数据结构和函数 DataFrame是一个面向列的二维表结构
+
+3. matplotlib用于绘制数据图表的python库
+
+4.IPYTHON
+
+5. Scipy
+    scipy是一组专门解决科学计算中各种标准问题域的包的集合， 主要包括以下的包
+    * scipy.integrate： 数值积分例程和微分方程求解器
+    * scipy.linalg： 扩展了由numpy.linalg提供的线程代数例程和矩阵分解功能
+    * scipy.optimize： 函数优化器
+    * scipy.signal： 信号处理工具
+    * scipy.sparse： 稀疏矩阵和稀疏性系统求解器
+    * scipy.special
+    * scipy.stats
+    * scipy.weave
+   
+
